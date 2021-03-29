@@ -1,2 +1,2 @@
-# sotovayasvyaz
+# sotovayasvyaz.github.io
 Первый хостинг
